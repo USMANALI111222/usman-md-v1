@@ -4,8 +4,8 @@ module.exports = {
   // ╚══════════════════════════════╝
 
   botName: "USMAN-MD",
-  ownerName: "Usman Tech",
-  ownerNumber: "923XXXXXXXXX", // Apna number likhein (country code ke saath, bina +)
+  ownerName: "Usman",
+  ownerNumber: "923055316203", // Apna number likhein (country code ke saath, bina +)
   ownerNumber2: "",
   ownerNumber3: "",
 
